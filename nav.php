@@ -71,7 +71,7 @@ border-bottom: 2px solid linear-gradient(to right, #B06AB3, #4568DC);
 						<li><a href="index.php">Home</a></li>
 						<li><a href="create.php">Add Student</a></li>
 						<li><a href="#!" onclick="ShowDiv()">Search By</a></li>
-						<li><a href="#">Source Code</a></li>
+						<li><a href="https://github.com/aadixiiita/SimpleCRUDApp">Source Code</a></li>
 					</ul>
 				</nav>
 				<br>
